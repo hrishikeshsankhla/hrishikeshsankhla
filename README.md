@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Shubh this side!</h1>
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hrishikesh this side!</h1>
 
 ###
 
@@ -14,8 +14,7 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubhtweetz" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-1704x958.jpg" alt="monalika" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shubh-singh-3a2988211/" target="blank"><img align="center" src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/linkedin-icon.png" alt="monalika" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrishikesh-sankhla-a4a1b0273/" target="blank"><img align="center" src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/linkedin-icon.png" alt="Hrishikesh" height="30" width="40" /></a>
 </p>
 
 
@@ -38,13 +37,13 @@
 </div>
 
 <h3 align="left">🔥 My Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh484&theme=dracula" alt="Shubh484k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikeshsankhla&theme=dracula" alt="hrishikeshsankhla" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh484&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="Shubh484" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshsankhla&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="hrishikeshsankhla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh484&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="Shubh484" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishikeshsankhla&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="hrishikeshsankhla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh484&theme=radical&disable_animations=true" alt="Shubh484" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshsankhla&theme=radical&disable_animations=true" alt="hrishikeshsankhla" /></p>
 
 <!--
 **hrishikeshsankhla/hrishikeshsankhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
